@@ -21,3 +21,7 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+# Added by Quan
+.DS_Store
+.ipynb_checkpoints

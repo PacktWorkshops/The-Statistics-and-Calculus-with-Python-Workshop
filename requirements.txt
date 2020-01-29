@@ -1,2 +1,9 @@
 import-ipynb
+ipynb
 jupyter
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn

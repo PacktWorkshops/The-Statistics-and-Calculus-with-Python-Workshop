@@ -1,4 +1,5 @@
 import unittest
+from ipynb.fs.full.Testing_for_Concurrency import Counter
 
 
 class Test(unittest.TestCase):
@@ -7,4 +8,6 @@ class Test(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    # unittest.main()
+    sample_counter = Counter(10)
+    sample_counter.run()

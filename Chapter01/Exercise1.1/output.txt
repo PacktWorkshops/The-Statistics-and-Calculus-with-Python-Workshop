@@ -1,1 +1,1 @@
-x is not divisible by 2 or 3
+x is divisible by 6

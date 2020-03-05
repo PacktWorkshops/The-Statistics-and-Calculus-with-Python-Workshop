@@ -5,7 +5,7 @@ class Test(unittest.TestCase):
     
     def test1(self):
         #Assume
-        sample_size = 10000000
+        sample_size = 100000000
         #Action
         result_list = []
         for i in range(sample_size):

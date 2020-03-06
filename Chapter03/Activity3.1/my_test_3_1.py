@@ -11,13 +11,12 @@ class Test(unittest.TestCase):
     def setUp(self):
         self.df = pd.read_csv('CommViolPredUnnormalizedData.txt')
         self.df = self.df.replace('?', np.nan)
-        self.df = self.df.rename(columns={'racepctblack': 'racePctBlack'})
 
-        races = ['Black', 'White', 'Asian', 'Hisp']
+        age_groups = ['12t21', '12t29', '16t24', '65up']
 
-        for race in races:
-            self.df['raceCnt' + race] = (self.df['population']
-                * self.df['racePct' + race]).astype(int)
+        for group in age_groups:
+            self.df['ageCnt' + group] = (self.df['population']
+                * self.df['agePct' + group]).astype(int)
 
         self.group_state_df = self.df.groupby('state')
         self.crime_df = self.df[[

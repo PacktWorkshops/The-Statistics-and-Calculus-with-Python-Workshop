@@ -1,0 +1,16 @@
+day,city,weather
+0,St Louis,sunny
+0,New York,cloudy
+0,San Francisco,sunny
+1,New York,rain
+1,St Louis,cloudy
+1,San Francisco,windy
+2,San Francisco,sunny
+2,New York,cloudy
+2,St Louis,cloudy
+3,New York,sunny
+3,St Louis,rain
+3,San Francisco,sunny
+4,San Francisco,sunny
+4,St Louis,cloudy
+4,New York,cloudy

@@ -23,27 +23,3 @@ c = np.array([[5,  40, 2]])
 
 u = np.concatenate((a, b, c), axis=0)
 print(u)
-
-# Method 2
-a =  np.dot(np.linalg.inv(z), w)
-
-z = np.array([[3,2],[-6,6]])
-print(np.linalg.det(z))
-print(np.linalg.inv(z))
-w = np.array([[7],[6]])
-
-a =  np.dot(np.linalg.inv(z), w)
-print(a)
-
-
-37*10 + 20*0.25 + 12*5 = 435
-15*10 + 32*0.25 + 4*5 =  178
-5*10 + 40*0.25 + 2*5 = 70
-
-list1 = ['Alpha', 'Beta', 'Gamma', 'Sigma']
-list2 = ['one', 'two', 'three', 'six']
-test = zip(list1, list2)
-test = [list(i) for i in test]
-print(test)
-test = np.array(test)
-print(type(test))

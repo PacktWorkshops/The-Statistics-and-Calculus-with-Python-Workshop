@@ -1,20 +1,23 @@
 import unittest
 import import_ipynb
 import numpy as np
-import scipy.stats as stats
 
 class Test(unittest.TestCase):
 	def setUp(self):
 		import exercise_8_2
 		self.exercise = exercise_8_2
 
-	def test_Z(self):
-		Z = self.exercise.Z_rv
-		prob_1 = Z.pmf(1)
-		Z_true = stats.binom(n = 12, p = 0.04)
-		test_value = Z_true.pmf(1)
-		self.assertEqual(prob_1, test_value)
+	def test_roulette(self):
+		roulette = self.exercise.roulette
+		result = roulette(1)
+		self.assertIn(result, [i for i in range(37)])
 
+	def test_payoff(self):
+		payoff = self.exercise.payoff
+		result_1 = payoff(1, units=1)
+		result_2 = payoff(25, units=1)
+		self.assertEqual(result_1, -1)
+		self.assertEqual(result_2, 1)
 		
 if __name__ == '__main__':
 	unittest.main()

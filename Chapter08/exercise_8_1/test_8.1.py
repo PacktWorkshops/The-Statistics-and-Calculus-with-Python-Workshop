@@ -7,17 +7,15 @@ class Test(unittest.TestCase):
 		import exercise_8_1
 		self.exercise = exercise_8_1
 
-	def test_roulette(self):
-		roulette = self.exercise.roulette
-		result = roulette(1)
-		self.assertIn(result, [i for i in range(37)])
+	def test_cards(self):
+		cards = self.exercise.cards
+		self.assertEqual(52, len(cards))
 
-	def test_payoff(self):
-		payoff = self.exercise.payoff
-		result_1 = payoff(1, units=1)
-		result_2 = payoff(25, units=1)
-		self.assertEqual(result_1, -1)
-		self.assertEqual(result_2, 1)
+	def test_deal_hands(self):
+		deal_hands = self.exercise.deal_hands
+		result_1 = deal_hands()
+		self.assertEqual(2,len(result_1))
+		self.assertEqual(5, len(result_1[0]))
 		
 if __name__ == '__main__':
 	unittest.main()

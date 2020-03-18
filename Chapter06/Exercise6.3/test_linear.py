@@ -35,3 +35,6 @@ class Test(uniitest.TestCase):
         c = np.array([[5,  40, 2]])
         result = np.concatenate((a, b, c), axis=0)
         self.assertEquals(result, u)
+
+if __name__ == '__main__':
+    unittest.main()

@@ -37,3 +37,6 @@ class Test(uniitest.TestCase):
             else:
                 end = mid - 1
         self.assertTrue(result)
+
+if __name__ == '__main__':
+    unittest.main()

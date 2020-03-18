@@ -1,4 +1,9 @@
 import unittest
-import math
-import numpy as np
-import earthsun
+
+class Test(unittest.TestCase):
+    def always_true(self):
+        self.assertEqual(1, 1)
+
+
+if __name__ == '__main__':
+    unittest.main()

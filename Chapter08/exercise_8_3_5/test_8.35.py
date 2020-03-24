@@ -6,8 +6,8 @@ import scipy.stats as stats
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import exercise_8_4
-		self.exercise = exercise_8_4
+		import exercise_8_3_5
+		self.exercise = exercise_8_3_5
 
 	def test_X(self):
 		X = self.exercise.X_rv

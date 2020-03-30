@@ -1,10 +1,8 @@
-
 matrix = [
   [7,  10,  15, 18],
   [25, 29, 35, 47],
   [56, 78, 85, 104]
 ]
-
 
 def matrixsearch(matrix, value):
     # Check for edge cases
@@ -19,9 +17,9 @@ def matrixsearch(matrix, value):
 
     # Logic for binary search within a sorted matrix
     while start <= end:
-        mid = (start + end) // 2
-        pointer = matrix[mid//col][mid%col]
-        print(mid/col, mid%col)
+        mid = int((start + end) / 2)
+        pointer = matrix[int(mid/col)][int(mid%col)]
+        print(int(mid/col), int(mid%col))
 
         if pointer == value:
             return True

@@ -26,8 +26,8 @@ class Test(uniitest.TestCase):
 
         # Logic for binary search within a sorted matrix
         while start <= end:
-            mid = (start + end) / 2
-            pointer = matrix[mid/col][mid%col]
+            mid = (start + end) // 2
+            pointer = matrix[mid//col][mid%col]
             print(mid/col, mid%col)
 
             if pointer == value:

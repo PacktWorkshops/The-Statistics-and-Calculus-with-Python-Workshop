@@ -1,8 +1,8 @@
 import numpy as np
 import matrixsearch
-import uniitest
+import unittest
 
-class Test(uniitest.TestCase):
+class Test(unittest.TestCase):
 
     def test_matrixsearch(self):
         matrix = [
@@ -32,11 +32,9 @@ class Test(uniitest.TestCase):
 
             if pointer == value:
                 result = True
+                break
             elif pointer < value:
                 start = mid + 1
             else:
                 end = mid - 1
         self.assertTrue(result)
-
-if __name__ == '__main__':
-    unittest.main()

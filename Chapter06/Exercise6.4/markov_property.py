@@ -1,6 +1,7 @@
 
 # Generate random letters from 4 states A B C D
 import random
+tokens = []
 LEN_STR = 50
 for i in range(LEN_STR):
     tokens.append(random.choice("ABCD"))

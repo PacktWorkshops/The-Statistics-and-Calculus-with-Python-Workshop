@@ -1,6 +1,7 @@
 import unittest
+import scipy.stats as st
 import import_ipynb
-from t_conf_int import *
+from Activity import *
 
 class Test(unittest.TestCase):
     
@@ -16,15 +17,13 @@ class Test(unittest.TestCase):
         
     def test2(self):
         #Assume
-        sample = [159,155,157,125,103,122,101,82,228,199,195,110,191,151,119,119,112,87,190,87]
-        hypoth_value = 130
-        sig_level = .05
-        test_type = 'upper'
+        sample1 = [452,874,554,447,356,754,558,574,664,682,547,435,245]
+        sample2 = [546,547,774,465,459,665,467,365,589,534,456,651,654,665,546,537]
         #Action
-        result = t_test(sample, hypoth_value, sig_level, test_type)
+        result = st.ttest_ind(sample1,sample2,equal_var = False)
         result2 = tuple(map(lambda x: isinstance(x, float) and round(x, 4) or x, result))
         #Assert
-        self.assertSequenceEqual(result2,(0.9956,0.166))
+        self.assertSequenceEqual(result2,(-0.1514,0.8813))
         
     def test3(self):
         #Assume

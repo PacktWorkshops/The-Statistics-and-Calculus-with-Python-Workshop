@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f86db528-8384-4d04-bd7a-2fccfc73c497" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Chapter07/Activity7.01/Activity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter07/Activity7.01/Activity.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter07/Exercise7.01/test_7.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter07/Exercise7.02/test_7.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter07/Exercise7.03/exercise_7_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter07/Exercise7.03/exercise_7_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter07/Exercise7.03/test_7.3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter08/activity/Activity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter08/activity/Activity.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter08/exercise_8_1_5/test_8.15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter08/exercise_8_1_8/test_8.18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter08/exercise_8_2_3/exercise_8_2_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter08/exercise_8_2_3/exercise_8_2_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter08/exercise_8_2_3/test_8.23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter08/exercise_8_3_5/exercise_8_3_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter08/exercise_8_3_5/exercise_8_3_5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter08/exercise_8_3_5/test_8.35.py" beforeDir="false" />
-    </list>
+    <list default="true" id="f86db528-8384-4d04-bd7a-2fccfc73c497" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +22,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter07/Exercise7.01/exercise_7_1.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter07/Exercise7.03/exercise_7_3.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter07/Activity7.01/Activity.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter08/activity/Activity.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -84,7 +86,30 @@
               <item name="The-Python-Mathematics-Workshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="The-Python-Mathematics-Workshop" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+              <item name="Activity7.01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-Python-Mathematics-Workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-Python-Mathematics-Workshop" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise7.01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-Python-Mathematics-Workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-Python-Mathematics-Workshop" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise7.03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-Python-Mathematics-Workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-Python-Mathematics-Workshop" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-Python-Mathematics-Workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-Python-Mathematics-Workshop" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter08" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -94,8 +119,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -121,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586225249821</updated>
-      <workItem from="1586225274225" duration="230000" />
+      <workItem from="1586225274225" duration="1751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365000" />
+    <option name="totallyTimeSpent" value="1751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -173,6 +205,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter07/Exercise7.01/exercise_7_1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter07/Exercise7.03/exercise_7_3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter07/Activity7.01/Activity.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08/activity/Activity.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>

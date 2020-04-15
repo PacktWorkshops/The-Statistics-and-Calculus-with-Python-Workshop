@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Circle_to_Cone import *
+from Maximum_Circle_to_Cone_Volume import *
 
 class Test(unittest.TestCase):
     

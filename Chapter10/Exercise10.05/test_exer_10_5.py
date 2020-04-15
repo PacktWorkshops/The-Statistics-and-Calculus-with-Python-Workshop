@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Box_Problem import *
+from The_Box_Problem import *
 
 class Test(unittest.TestCase):
     

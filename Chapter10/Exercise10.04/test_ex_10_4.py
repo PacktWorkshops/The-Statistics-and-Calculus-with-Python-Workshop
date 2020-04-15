@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Quickest_Route import *
+from Find_the_Quickest_Route import *
 
 class Test(unittest.TestCase):
     

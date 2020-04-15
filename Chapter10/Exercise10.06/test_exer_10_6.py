@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Optimal_Can import *
+from The_Optimal_Can import *
 
 class Test(unittest.TestCase):
     

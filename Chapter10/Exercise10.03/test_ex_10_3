@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Volume_of_Solid import *
+from Find_the_Volume_of_a_Solid_of_Revolution import *
 
 class Test(unittest.TestCase):
     

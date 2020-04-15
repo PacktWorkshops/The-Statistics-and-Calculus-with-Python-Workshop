@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Area_Under_Curve import *
+from Find_the_Area_Under_a_Curve import *
 
 class Test(unittest.TestCase):
     

@@ -17,7 +17,7 @@ for i in range(365):
 S = 299792
 t = np.divide(l, S)
 
-sunny = np.asarray(zip(l, t))
+sunny = np.asarray(list(zip(l, t)))
 print(sunny)
 
 

@@ -11,7 +11,7 @@ class Test(unittest.TestCase):
         #Action
         mean_list = []
         for j in range(calc_means):
-            # initalize the variables to track our results
+            # initialize the variables to track our results
             sample_list = []
             for i in range(sample_size):
                 draw = np.random.exponential(1)

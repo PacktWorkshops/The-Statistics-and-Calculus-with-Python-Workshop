@@ -12,7 +12,7 @@ class Test(unittest.TestCase):
         mean_list = []
        # run our loop and collect a sample
         for j in range(calc_means):
-            # initalize the variables to track our results
+            # initialize the variables to track our results
             sample_list = []
             for i in range(sample_size):
                 sample_list.append(random.randint(0, 100))

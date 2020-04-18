@@ -9,18 +9,18 @@ print(tokens)
 LEN_TOKENS = len("ABCD")
 
 # Finding the relative values with ordinal values of ASCII characters
-ti = [(ord(t) - ord('A')) for t in tokens]
+relative_value = [(ord(t) - ord('A')) for t in tokens]
 # print(T)
-print(ti)
+print(relative_value)
 
 #create Matrix of zeros
 m = [[0]*LEN_TOKENS for j in range(LEN_TOKENS)]
 print(m)
 
 # Building the frequency table(matrix) from the given data
-for (i,j) in zip(ti,ti[1:]):
+for (i,j) in zip(relative_value,relative_value[1:]):
     m[i][j] += 1
-print(zip(ti,ti[1:]))
+print(list(zip(relative_value,relative_value[1:])))
 print(m)
 
 # Finding the Probabily

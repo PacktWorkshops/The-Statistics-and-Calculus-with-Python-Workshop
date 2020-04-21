@@ -4,8 +4,8 @@ import pandas as pd
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import exercise_7_1
-		self.exercise = exercise_7_1
+		import Using_a_String_Column_to_Produce_a_Numerical_Column
+		self.exercise = Using_a_String_Column_to_Produce_a_Numerical_Column
 		self.games = self.exercise.games2
 
 

@@ -1,12 +1,12 @@
 import unittest
 import sys
 import import_ipynb
-from Euler import *
+from Time_of_Death import *
 
 class Test(unittest.TestCase):
     
-    def test_euler(self):
-        self.assertEqual(euler(0,1,2,0.5),5.0625)
+    def test_pert(self):
+        self.assertAlmostEqual(pert(33.6,-0.4055,3),9.95,2)
 
 if __name__ == '__main__':
     unittest.main()

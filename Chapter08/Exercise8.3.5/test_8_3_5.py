@@ -6,8 +6,8 @@ import scipy.stats as stats
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import exercise_8_3_5
-		self.exercise = exercise_8_3_5
+		import Using_the_Normal_Distribution_in_Education
+		self.exercise = Using_the_Normal_Distribution_in_Education
 
 	def test_X(self):
 		X = self.exercise.X_rv

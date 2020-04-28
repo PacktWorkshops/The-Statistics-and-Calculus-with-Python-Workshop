@@ -4,8 +4,8 @@ import numpy as np
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import Calculate_Average_Wins_in_Roulette
-		self.exercise = Calculate_Average_Wins_in_Roulette
+		import Exercise8.02
+		self.exercise = Exercise8.02
 
 	def test_roulette(self):
 		roulette = self.exercise.roulette

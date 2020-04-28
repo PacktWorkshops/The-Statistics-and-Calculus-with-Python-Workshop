@@ -5,8 +5,8 @@ import scipy.stats as stats
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import Checking_If_a_RV_Follows_a_Binomial_Dist
-		self.exercise = Checking_If_a_RV_Follows_a_Binomial_Dist
+		import Exercise8.03
+		self.exercise = Exercise8.03
 
 	def test_Z(self):
 		Z = self.exercise.Z_rv

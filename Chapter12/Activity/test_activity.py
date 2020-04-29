@@ -1,18 +1,18 @@
 import unittest
 import sys
 import import_ipynb
-from Pursuit import *
+from Oscillating_Particle import *
 
 class Test(unittest.TestCase):
     
-    def test_dist(self):
-        self.assertEqual(dist(1,1,4,5),5.0)
+    def test_dx(self):
+        self.assertEqual(dxist(0),1.0)
 
-    def test_position(self):
-        self.assertEqual(towards(1,1,2,2.732),[0.5000110003630132, 0.8660190526287391])
+    def test_dy(self):
+        self.assertAlmostEqual(dy(0),12.6,1)
 
-    def test_chase(self):
-        self.assertAlmostEqual(chase(),24.0,1)
+    def test_speed(self):
+        self.assertAlmostEqual(speed(1.0),4.8,1)
 
 if __name__ == '__main__':
     unittest.main()

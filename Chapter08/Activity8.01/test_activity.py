@@ -6,8 +6,8 @@ import scipy.stats as stats
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import Activity
-		self.exercise = Activity
+		import Using_the_Normal_Distribution_in_Finance
+		self.exercise = Using_the_Normal_Distribution_in_Finance
 		data_path = '../data/MSFT.csv'
 		self.msft = pd.read_csv(data_path)
 		self.msft.rename(

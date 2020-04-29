@@ -4,8 +4,8 @@ import numpy as np
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import Exercise8.01
-		self.exercise = Exercise8.01
+		import Sampling_With_and_Without_Replacement
+		self.exercise = Sampling_With_and_Without_Replacement
 
 	def test_cards(self):
 		cards = self.exercise.cards

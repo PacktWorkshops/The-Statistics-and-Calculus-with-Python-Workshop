@@ -1,15 +1,18 @@
 import unittest
 import sys
 import import_ipynb
-from Projectile import *
+from Pursuit import *
 
 class Test(unittest.TestCase):
     
-    def test_bin_search(self):
-        self.assertAlmostEqual(bin_search(dy,1.25,1.3,0),1.253,3)
+    def test_dist(self):
+        self.assertEqual(dist(1,1,4,5),5.0)
 
     def test_position(self):
-        self.assertEqual(position(-2,3,1.145),(0.031374484385746366, 14.515587014923222))
+        self.assertEqual(towards(1,1,2,2.732),[0.5000110003630132, 0.8660190526287391])
+
+    def test_chase(self):
+        self.assertAlmostEqual(chase(),24.0,1)
 
 if __name__ == '__main__':
     unittest.main()

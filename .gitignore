@@ -25,3 +25,4 @@ $RECYCLE.BIN/
 # Added by Quan
 .DS_Store
 .ipynb_checkpoints
+venv/

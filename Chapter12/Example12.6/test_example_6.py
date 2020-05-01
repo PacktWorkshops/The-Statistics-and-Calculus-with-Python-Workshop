@@ -1,12 +1,14 @@
 import unittest
 import sys
 import import_ipynb
-from Euler import *
+from Salt_Content2 import *
 
 class Test(unittest.TestCase):
     
-    def test_euler(self):
-        self.assertEqual(euler(0,1,2,0.5),5.0625)
+    def test_salt_content1(self):
+        self.assertAlmostEqual(salt_content1(5*60),183.0769,4)
+    def test_salt_content(self):
+        self.assertAlmostEqual(salt_content(300,100,10000,0.4,20,10),183.0769,4)
 
 if __name__ == '__main__':
     unittest.main()

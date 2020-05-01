@@ -5,8 +5,8 @@ import pandas as pd
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import exercise_7_3
-		self.exercise = exercise_7_3
+		import Practicing_EDA
+		self.exercise = Practicing_EDA
 		self.games = self.exercise.games
 
 	def test_round_price(self):

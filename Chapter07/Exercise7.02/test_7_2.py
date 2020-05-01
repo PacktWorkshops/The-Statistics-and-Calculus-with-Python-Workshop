@@ -6,8 +6,8 @@ import pandas.testing as pd_testing
 
 class Test(unittest.TestCase):
 	def setUp(self):
-		import exercise_7_2
-		self.exercise = exercise_7_2
+		import Calculating_Descriptive_Statistics
+		self.exercise = Calculating_Descriptive_Statistics
 		self.games = self.exercise.games
 
 

@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Curve_Length_Circle import *
+from Finding_the_Length_of_a_Curve import *
 
 class Test(unittest.TestCase):
     

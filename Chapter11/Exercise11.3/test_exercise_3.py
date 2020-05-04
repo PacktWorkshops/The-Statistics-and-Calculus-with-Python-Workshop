@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Spiral_Curve1 import *
+from Finding_the_Length_of_the_Polar_Spiral_Curve import *
 
 class Test(unittest.TestCase):
     

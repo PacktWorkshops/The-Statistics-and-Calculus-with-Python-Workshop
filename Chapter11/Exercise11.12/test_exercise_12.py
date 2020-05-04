@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Interval_of_Convergence2 import *
+from Determining_the_Interval_of_Convergence_Part_2 import *
 
 class Test(unittest.TestCase):
     

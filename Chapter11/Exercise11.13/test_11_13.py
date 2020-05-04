@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Mystery_Constant import *
+from Finding_the_Constant import *
 
 class Test(unittest.TestCase):
     

@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Machin_Series import *
+from Calculating_10_Correct_Digits_of_π import *
 
 class Test(unittest.TestCase):
     

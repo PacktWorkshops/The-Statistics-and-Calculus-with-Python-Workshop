@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Euler_Pi_Series import *
+from Calculating_the_Value_of_π_Using_Eulers_Expression import *
 
 class Test(unittest.TestCase):
     

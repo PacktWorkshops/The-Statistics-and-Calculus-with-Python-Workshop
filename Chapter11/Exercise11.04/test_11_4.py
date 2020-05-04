@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Spiral_Curve2 import *
+from Finding_the_Length_of_Insulation_in_a_Roll import *
 
 class Test(unittest.TestCase):
     

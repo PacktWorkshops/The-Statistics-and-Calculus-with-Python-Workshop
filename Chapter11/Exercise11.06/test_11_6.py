@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Area_of_Surface1 import *
+from Finding_the_Area_of_a_3D_Surface_Part_1 import *
 
 class Test(unittest.TestCase):
     

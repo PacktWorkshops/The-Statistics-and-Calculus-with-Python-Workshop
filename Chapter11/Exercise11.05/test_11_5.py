@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Log_Spiral import *
+from Finding_the_Length_of_an_Archimedean_Spiral import *
 
 class Test(unittest.TestCase):
     

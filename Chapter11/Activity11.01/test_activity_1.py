@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Minimum_of_Surface import *
+from Finding_the_Minimum_of_a_Surface import *
 
 class Test(unittest.TestCase):
     

@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Population_Double import *
+from Calculating_the_Population_Growth_Rate_Part_1 import *
 
 class Test(unittest.TestCase):
     

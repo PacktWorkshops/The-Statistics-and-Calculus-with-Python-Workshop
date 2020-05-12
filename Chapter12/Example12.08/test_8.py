@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Half_Life import *
+from Measuring_Radioactive_Decay import *
 
 class Test(unittest.TestCase):
     

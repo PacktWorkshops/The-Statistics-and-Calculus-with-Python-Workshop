@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Oscillating_Particle import *
+from Finding_the_Velocity_and_Location_of_a_Particle import *
 
 class Test(unittest.TestCase):
     

@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Carbon_Dating import *
+from Measuring_the_Age_of_a_Historical_Artifact import *
 
 class Test(unittest.TestCase):
     

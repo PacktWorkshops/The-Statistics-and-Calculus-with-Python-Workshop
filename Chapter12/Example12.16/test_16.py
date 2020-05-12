@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Euler import *
+from Solving_Differential_Equations_by_Eulers_Method import *
 
 class Test(unittest.TestCase):
     

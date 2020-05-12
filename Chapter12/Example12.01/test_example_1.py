@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from amount import *
+from Calculating_Interest import *
 
 class Test(unittest.TestCase):
     

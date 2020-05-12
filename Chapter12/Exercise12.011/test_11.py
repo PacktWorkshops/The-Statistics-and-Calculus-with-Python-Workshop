@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Coffee_Temperature import *
+from Calculating_the_Rate_of_Change_in_Temperature import *
 
 class Test(unittest.TestCase):
     

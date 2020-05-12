@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Binary_Search import *
+from Calculating_Compound_Interest_Part_1 import *
 
 class Test(unittest.TestCase):
     

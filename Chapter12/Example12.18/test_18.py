@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Runge_Kutta import *
+from Implementing_the_Runge_Kutta_Method import *
 
 class Test(unittest.TestCase):
     

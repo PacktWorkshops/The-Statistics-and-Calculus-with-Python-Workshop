@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Pursuit import *
+from Finding_Where_the_Predator_Catches_the_Prey import *
 
 class Test(unittest.TestCase):
     

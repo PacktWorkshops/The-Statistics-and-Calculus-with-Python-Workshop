@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Euler import *
+from Using_Eulers_Method_to_Evaluate_a_Function import *
 
 class Test(unittest.TestCase):
     

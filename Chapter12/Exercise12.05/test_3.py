@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Millionaire import *
+from Becoming_a_Millionaire import *
 
 class Test(unittest.TestCase):
     

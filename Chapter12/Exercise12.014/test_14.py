@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Salt_Content import *
+from Solving_Mixture_Problems_Part_3 import *
 
 class Test(unittest.TestCase):
     

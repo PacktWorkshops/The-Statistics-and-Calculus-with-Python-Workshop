@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Monthly_Compounding import *
+from Calculating_Compound_Interest_Part_3 import *
 
 class Test(unittest.TestCase):
     

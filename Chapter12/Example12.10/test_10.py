@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Time_of_Death import *
+from Calculating_the_Time_of_Death import *
 
 class Test(unittest.TestCase):
     

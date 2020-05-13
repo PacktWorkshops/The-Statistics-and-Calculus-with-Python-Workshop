@@ -1,7 +1,7 @@
 import unittest
 import sys
 import import_ipynb
-from Finding_e import *
+from Calculating_Compound_Interest_Part_2 import *
 
 class Test(unittest.TestCase):
     

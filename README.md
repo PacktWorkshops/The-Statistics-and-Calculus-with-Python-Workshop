@@ -1,4 +1,4 @@
-# The Data Visualization Workshop
+# The Statistics and Calculus with Python Workshop
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop/stargazers)

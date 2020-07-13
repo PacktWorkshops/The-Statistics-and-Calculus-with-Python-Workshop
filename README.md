@@ -5,22 +5,22 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 
-This is the repository for [The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
+This is the repository for The Statistics and Calculus with Python Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15968_The%20Statistics%20and%20Calculus%20Workshop.png" alt="The Statistics and Calculus with Python Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
+<a href=""><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15968_The%20Statistics%20and%20Calculus%20Workshop.png" alt="The Statistics and Calculus with Python Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
 ## About The Statistics and Calculus with Python Workshop
-Are you looking to start developing artificial intelligence applications? Do you need a refresher on key mathematical concepts? Full of engaging practical exercises, The Statistics and Calculus Workshop will show you how to apply your understanding of advanced mathematics in the context of Python.
+Are you looking to start developing artificial intelligence applications? Do you need a refresher on key mathematical concepts? Full of engaging practical exercises, The Statistics and Calculus Workshop will show you how to apply your understanding of advanced mathematics in the context of Python. 
 
 ## What you will learn
-* Discover how most programmers use the main Python libraries when performing statistics with Python
-* Use descriptive statistics and visualizations to answer business and scientific questions
-* Solve complicated calculus problems, such as arc length and solids of revolution using derivatives and integrals
+* Discover how most programmers use the main Python libraries when performing statistics with Python 
+* Use descriptive statistics and visualizations to answer business and scientific questions 
+* Solve complicated calculus problems, such as arc length and solids of revolution using derivatives and integrals 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:

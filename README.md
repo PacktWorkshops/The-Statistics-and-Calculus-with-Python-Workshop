@@ -18,9 +18,12 @@ To get started with the project files, you'll need to:
 Are you looking to start developing artificial intelligence applications? Do you need a refresher on key mathematical concepts? Full of engaging practical exercises, The Statistics and Calculus Workshop will show you how to apply your understanding of advanced mathematics in the context of Python. 
 
 ## What you will learn
-* Discover how most programmers use the main Python libraries when performing statistics with Python 
-* Use descriptive statistics and visualizations to answer business and scientific questions 
-* Solve complicated calculus problems, such as arc length and solids of revolution using derivatives and integrals 
+* Get to grips with the fundamental mathematical functions in Python 
+* Perform calculations on tabular datasets using pandas 
+* Understand the differences between polynomials, rational functions, exponential functions, and trigonometric functions 
+* Use algebra techniques for solving systems of equations 
+* Solve real-world problems with probability 
+* Solve optimization problems with derivatives and integrals 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:

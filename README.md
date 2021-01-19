@@ -8,14 +8,14 @@
 This is the repository for The Statistics and Calculus with Python Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href=""><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15968_The%20Statistics%20and%20Calculus%20Workshop.png" alt="The Statistics and Calculus with Python Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
+<a href="https://www.amazon.com/Statistics-Calculus-Python-Workshop-comprehensive/dp/1800209762/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611065425&sr=1-1-fkmr1&utm_source=github&utm_medium=repository&utm_campaign=9781801078719&utm_term=Statistics%20and%20Calculus%20with%20Python&utm_content=The%20Statistics%20and%20Calculus%20with%20Python%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15968_The%20Statistics%20and%20Calculus%20Workshop.png" alt="The Statistics and Calculus with Python Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
 ## About The Statistics and Calculus with Python Workshop
-Are you looking to start developing artificial intelligence applications? Do you need a refresher on key mathematical concepts? Full of engaging practical exercises, The Statistics and Calculus Workshop will show you how to apply your understanding of advanced mathematics in the context of Python. 
+[The Statistics and Calculus with Python Workshop](https://www.amazon.com/Statistics-Calculus-Python-Workshop-comprehensive/dp/1800209762/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611065425&sr=1-1-fkmr1&utm_source=github&utm_medium=repository&utm_campaign=9781801078719&utm_term=Statistics%20and%20Calculus%20with%20Python&utm_content=The%20Statistics%20and%20Calculus%20with%20Python%20Workshop) is ideal for those who need a refresher in the mathematics that make the practical applications of modern artificial intelligence possible. Starting with foundational mathematical concepts like functions and matrices, the book covers the entire spectrum of calculus and statistics, teaching you the techniques you need to solve mathematical challenges with Python and AI.
 
 ## What you will learn
 * Get to grips with the fundamental mathematical functions in Python 
@@ -27,6 +27,6 @@ Are you looking to start developing artificial intelligence applications? Do you
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
-* [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop)
-* [The Data Science Workshop](https://courses.packtpub.com/courses/data-science?utm_source=github&utm_medium=repository&utm_campaign=9781838981266&utm_term=Data%20Science&utm_content=The%20Data%20Science%20Workshop)
-* [The Applied SQL Data Analytics Workshop](https://courses.packtpub.com/courses/the-applied-sql-data-analytics-workshop?utm_source=github&utm_medium=repository&utm_campaign=9781800203679&utm_term=Applied%20SQL%20Data%20Analytics&utm_content=The%20Applied%20SQL%20Data%20Analytics%20Workshop)
+* [The Data Science Workshop](https://www.amazon.com/Data-Science-Workshop-learning-real-world-dp-1800566921/dp/1800566921/ref=mt_other?_encoding=UTF8&me=&qid=1611065035&utm_source=github&utm_medium=repository&utm_campaign=9781800566927&utm_term=Data%20Science&utm_content=The%20Data%20Science%20Workshop)
+* [The Applied Data Science Workshop](https://www.amazon.com/Applied-Data-Science-Workshop-applications/dp/1800202504/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611064853&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781800202504&utm_term=Applied%20Data%20Science&utm_content=The%20Applied%20Data%20Science%20Workshop)
+* [The Data Wrangling Workshop](https://www.amazon.com/Data-Wrangling-Workshop-actionable-insights/dp/1839215003/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611065162&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801078955&utm_term=Data%20Wrangling&utm_content=The%20Data%20Wrangling%20Workshop)

@@ -8,7 +8,7 @@
 This is the repository for The Statistics and Calculus with Python Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://www.amazon.com/Statistics-Calculus-Python-Workshop-comprehensive/dp/1800209762/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611065425&sr=1-1-fkmr1&utm_source=github&utm_medium=repository&utm_campaign=9781801078719&utm_term=Statistics%20and%20Calculus%20with%20Python&utm_content=The%20Statistics%20and%20Calculus%20with%20Python%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15968_The%20Statistics%20and%20Calculus%20Workshop.png" alt="The Statistics and Calculus with Python Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
+<a href="https://www.amazon.com/Statistics-Calculus-Python-Workshop-comprehensive/dp/1800209762/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611065425&sr=1-1-fkmr1&utm_source=github&utm_medium=repository&utm_campaign=9781801078719&utm_term=Statistics%20and%20Calculus%20with%20Python&utm_content=The%20Statistics%20and%20Calculus%20with%20Python%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15968_The%20Statistics%20and%20Calculus%20Workshop.png" alt="The Statistics and Calculus with Python Workshop" height="320px" width="240px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)

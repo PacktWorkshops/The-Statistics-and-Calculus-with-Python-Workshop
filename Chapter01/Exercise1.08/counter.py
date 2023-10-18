@@ -1,5 +1,5 @@
 import threading
-import time
+import sys, sys.switchinterval(10 ** -10)
 import unittest
 
 
@@ -10,7 +10,6 @@ class Counter:
 
     def update(self):
         current_value = self.value
-        time.sleep(0.000001)
         # breakpoint()
         self.value = current_value + 1
 
